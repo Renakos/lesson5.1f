@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lesson5.1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="newname">Новое имя</string>
+    <string name="newage">Новый возвраст</string>
+    <string name="newmail">Новая почта</string>
+    <string name="newpass">Новый пароль</string>
+    <string name="savechanges">Применить изменения</string>
+    <string name="name">Имя</string>
+    <string name="namef">Имя</string>
+    <string name="age">Возвраст</string>
+    <string name="email">Почта</string>
+    <string name="pass">Пароль</string>
+    <string name="nameedit">Имя</string>
+    <string name="agef">Возвраст</string>
+    <string name="editemail">Почта</string>
+    <string name="passedit">Пароль</string>
+    <string name="reg">Зарегистрироваться</string>
+    <string name="editdata">Редактировать данные</string>
+</resources>
