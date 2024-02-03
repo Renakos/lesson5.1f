@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/editUserInfoFragment"
-        android:name="com.example.lesson51.EditUserInfoFragment"
+        android:name="com.example.lesson51.ui.fragment.EditUserInfoFragment"
         android:label="EditUserInfoFragment"
         tools:layout="@layout/fragment_edit_user_info"/>
     <fragment
         android:id="@+id/registrationFragment"
-        android:name="com.example.lesson51.RegistrationFragment"
+        android:name="com.example.lesson51.ui.fragment.RegistrationFragment"
         android:label="RegistrationFragment"
         tools:layout="@layout/fragment_registration" >
         <action
@@ -21,7 +21,7 @@
     </fragment>
     <fragment
         android:id="@+id/userInfoFragment"
-        android:name="com.example.lesson51.UserInfoFragment"
+        android:name="com.example.lesson51.ui.fragment.UserInfoFragment"
         android:label="UserInfoFragment"
         tools:layout="@layout/fragment_user_info">
         <action
@@ -30,7 +30,7 @@
     </fragment>
     <activity
         android:id="@+id/mainActivity"
-        android:name="com.example.lesson51.MainActivity"
+        android:name="com.example.lesson51.ui.activity.MainActivity"
         android:label="activity_main"
         tools:layout="@layout/activity_main" />
 
